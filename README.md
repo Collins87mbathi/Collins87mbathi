@@ -41,7 +41,7 @@ I love the entire process of developing creative websites and web application. I
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Nodejs&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=F7DF1E)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
