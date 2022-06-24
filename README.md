@@ -13,9 +13,9 @@ I love the entire process of developing creative websites and web application. I
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/collins-mbathi-a39a221b9/"><img align="left" src="https://www.flaticon.com/free-icons/linkedin-social-badge" alt="collins | linkedin" width="21px"/></a>
-<a href="https://twitter.com/collinsperez6"><img align="left" src="https://www.flaticon.com/free-icons/twitter-social-badge" alt="collins | twitter" width="21px"/></a>
-<a href="https://instagram.com/collins_pedre"><img align="left" src="https://www.flaticon.com/free-icons/instagram-social-badge" alt="collins | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/collins-mbathi-a39a221b9/"><img align="left" src="https://raw.githubusercontent.com/Collins87mbathi/Collins87mbathi/images/linkedin.png" alt="collins | linkedin" width="21px"/></a>
+<a href="https://twitter.com/collinsperez6"><img align="left" src="https://raw.githubusercontent.com/Collins87mbathi/Collins87mbathi/images/twitter.png" alt="collins | twitter" width="21px"/></a>
+<a href="https://instagram.com/collins_pedre"><img align="left" src="https://raw.githubusercontent.com/Collins87mbathi/Collins87mbathi/images/instagram.png" alt="collins | Instagram" width="21px"/></a>
 
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -41,15 +41,15 @@ I love the entire process of developing creative websites and web application. I
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=F7DF1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=F7DF1E)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 </br>
 
