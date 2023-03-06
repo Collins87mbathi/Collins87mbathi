@@ -13,27 +13,23 @@ I love the entire process of developing creative websites and web application. I
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/collins-mbathi-a39a221b9/"><img align="left" src="https://github.com/Collins87mbathi/Collins87mbathi/tree/main/images/linkedin.png" alt="collins | linkedin" width="21px"/></a>
-<a href="https://twitter.com/collinsperez6"><img align="left" src="https://github.com/Collins87mbathi/Collins87mbathi/tree/main/images/twitter.png" alt="collins | twitter" width="21px"/></a>
-<a href="https://instagram.com/collins_pedre"><img align="left" src="https://github.com/Collins87mbathi/Collins87mbathi/tree/main/images/instagram.png" alt="collins | Instagram" width="21px"/></a>
-
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Food Delivery App (MERN STACK)
-- Blog site Application (MERN STACK)
-- school Management System (MERN STACK)
-- My CSS  skill
+- Rental Houses Management system
+- Backend developers portfolio
+- Porduct live tracking system
+- My typesctipt skills
 
 ## 🌱 I'm currently learning
 
 - AWS cloud computing 
-- Typescript
-- Styled Components 
-- CircleCI
+- .Net
+- c# 
+- Superbase
 
 
 ## 💼 Technical Skills
