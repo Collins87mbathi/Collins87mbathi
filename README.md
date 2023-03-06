@@ -21,7 +21,7 @@ I love the entire process of developing creative websites and web application. I
 - My old projects
 - Rental Houses Management system
 - Backend developers portfolio
-- Porduct live tracking system
+- Product live tracking system
 - My typesctipt skills
 
 ## 🌱 I'm currently learning
