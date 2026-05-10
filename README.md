@@ -1,15 +1,13 @@
 ⏺ Software engineer in Nairobi, Kenya. Backend: Java, Python, Node.js. Frontend: React, Next.js, Vue.
 
-  I ship small open-source libraries when I find myself writing the same code across three different projects.
-
-  #### Open source
-
+  I ship small open-source libraries when I find myself writing the same code across three different projects.                         
+   
+  #### Open source                                                                                                                     
+                       
   - [kenya-utils](https://github.com/Collins87mbathi/kenya-utils) — utilities for Kenya-specific data: phone numbers, KRA PIN, national
    IDs, the 47 counties, M-PESA, shilling formatting.
-
-  #### Currently picking up
-
-  AWS · .NET · Supabase
+  - [friendly-zod](https://github.com/Collins87mbathi/friendly-zod) — human-readable Zod errors. Drop-in for forms, with a React hook.
+  Works with Zod 3 and 4.
 
   #### Elsewhere
 
